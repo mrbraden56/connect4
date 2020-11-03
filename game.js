@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded',()=>{
 const board=document.querySelectorAll('.board')
-//const player1=document.querySelectorAll('player1')
 let player=document.querySelector('#players')
 let player_now='Player2';
 const array=Array.from(document.querySelectorAll('.board'))
